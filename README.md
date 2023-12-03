@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Samuel Gomez G.</h1>
+<h1 align="center">Hi 👋, my name is Samuel Gómez G.</h1>
 <h3 align="center">A junior software developer and CS student from Colombia</h3>
 
 - 🌱 I’m currently learning **ReactJS, SCSS, Typescript, HTML**
