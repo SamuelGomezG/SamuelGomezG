@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, my name is Samuel Gómez G.</h1>
-<h3 align="center">A junior software developer and CS student from Colombia</h3>
+![Header](https://github.com/SamuelGomezG/SamuelGomezG/blob/main/header.png)
 
 - 🌱 I’m currently learning **ReactJS, SCSS, Typescript, HTML**
 
